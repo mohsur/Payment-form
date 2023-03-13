@@ -1,0 +1,31 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:17px;
+    margin:15px 15px;
+    padding:8px;
+
+}
+.container{
+    background-color:darkgrey;
+    padding:5px 20px 5px 15px;
+    border:1px solid grey;
+
+}
+input[type="text"],
+input[type="date"],
+input[type="email"],
+input[type="password"],
+input[type="number"],
+select,
+textarea{
+    width:100%;
+    padding:10px;
+    border:10px solid grey;
+
+}
+h1{
+    text-align:center;
+}
+input[type="submit"]{
+    background-color:green;
+}
